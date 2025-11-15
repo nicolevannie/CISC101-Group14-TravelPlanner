@@ -1,1 +1,1 @@
-Collect essentials; normalize/store preferences
+Module 1 — Intake & Setup
